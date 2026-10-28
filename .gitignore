@@ -1,0 +1,15 @@
+﻿data/
+histopathology_env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pth
+.DS_Store
+*.log
+results/paper_handover_to_friend.zip
+results/paper_handover_to_friend/
+results/**/centre2_predictions*.csv
+results/**/predictions*.csv
+results/report_figures/centre2_predictions.csv
