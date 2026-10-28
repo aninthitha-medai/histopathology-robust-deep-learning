@@ -13,3 +13,9 @@ results/paper_handover_to_friend/
 results/**/centre2_predictions*.csv
 results/**/predictions*.csv
 results/report_figures/centre2_predictions.csv
+
+# Local-only files and research outputs
+src/demo_baseline
+src/package_paper_handover.ps1
+results/
+
